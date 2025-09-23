@@ -2,7 +2,7 @@
 
 I am an assistant researcher at INESC-ID and a soon-to-be visiting student at the Psychology Department and Neuroscience Institute at Carnegie Mellon University. My work lies at the intersection of neuroscience and computer vision, where I use spatial frequency constraints derived from fMRI data to regularize computer vision models.
 
-Previously, I was a master’s student in Computer Science and Engineering at Instituto Superior Técnico in Lisbon, where I specialized in Artificial Intelligence. My thesis focused on developing a subcortical module for visual processing to improve model robustness to image perturbations while mirroring cortical representations.
+Previously, I was a master’s student in Computer Science and Engineering at Instituto Superior Técnico (IST) in the University of Lisbon, where I specialized in Artificial Intelligence. My thesis focused on developing a subcortical module for visual processing to improve model robustness to image perturbations while mirroring cortical representations.
 
 &nbsp; [LinkedIn](https://www.linkedin.com/in/lucas-piper/) &nbsp; [Scholar](https://scholar.google.com/citations?user=0s2P6TAAAAAJ) &nbsp; [Github](https://github.com/lucaspiper99)
 
@@ -10,7 +10,7 @@ Previously, I was a master’s student in Computer Science and Engineering at In
 
 ## **Work Experience**
 
-**Visiting Student @ Carnegie Mellon University** <br> &nbsp; (_November 2025 - December 2025_)
+**Visiting Student @ Carnegie Mellon University** <br> &nbsp; (_Nov. 2025 - Dec. 2025_)
 - Using spatial frequency tuning profiles from fMRI data to regularize early representations of computer vision models.
 
 **Research Assistant @ INESC-ID** <br> &nbsp; (_June 2024 - Oct. 2025_)
@@ -20,12 +20,12 @@ Previously, I was a master’s student in Computer Science and Engineering at In
 
 ## **Education**
 
-**M.S., Computer Science and Engineering	@ Instituto Superior Técnico**, GPA: 19/20 <br> &nbsp; (_Oct. 2021 - Nov. 2024_)
+**M.S., Computer Science and Engineering	@ IST ULisboa**, GPA: 19/20 <br> &nbsp; (_Oct. 2021 - Nov. 2024_)
   - Thesis: "Using Biological Features of Improve Deep Neural Network Models for Vision" (Grade: 20/20)
 
 **Erasmus Semester @ University of Amsterdam**, GPA: 8/10 <br> &nbsp; (_Aug. 2022 - Jan. 2023_)
 
-**B.S., Mechanical Engineering @ Instituto Superior Técnico**, GPA: 16/20 <br> &nbsp; (_Sep. 2018 - Aug. 2021_)
+**B.S., Mechanical Engineering @ IST ULisboa**, GPA: 16/20 <br> &nbsp; (_Sep. 2018 - Aug. 2021_)
 
 ---
 ## **Projects**

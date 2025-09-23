@@ -4,6 +4,8 @@ I'm an assistant researcher at INESC-ID and soon-to-be visiting student at Psych
 
 Previously, I was a master's student at Instituto Superior Técnico in Lisbon, where my thesis focused on developing a subcortical module for visual processing to improve model robustness to image perturbations while mirroring cortical representations.
 
+[LinkedIn](https://www.linkedin.com/in/lucas-piper/) [Scholar](https://scholar.google.com/citations?user=0s2P6TAAAAAJ) [Github](https://github.com/lucaspiper99)
+
 ---
 
 ## **Work Experience**
@@ -18,12 +20,12 @@ Previously, I was a master's student at Instituto Superior Técnico in Lisbon, w
 
 ## **Education**
 
-- **M.S., Computer Science and Engineering	@ Instituto Superior Técnico | Nov. 2024 ** (GPA: 19/20)
+- **M.S., Computer Science and Engineering	@ Instituto Superior Técnico, Nov. 2024 ** (GPA: 19/20)
   - Thesis: "Using Biological Features of Improve Deep Neural Network Models for Vision" (Grade: 20/20)
 
-- **Erasmus Semester @ University of Amsterdam | Jan. 2024 ** (GPA: 8/10)
+- **Erasmus Semester @ University of Amsterdam, Jan. 2024 ** (GPA: 8/10)
 
-- **B.S., Mechanical Engineering @ Instituto Superior Técnico | Aug. 2021 ** (GPA: 16/20)
+- **B.S., Mechanical Engineering @ Instituto Superior Técnico, Aug. 2021 ** (GPA: 16/20)
 
 ---
 ## **Projects**

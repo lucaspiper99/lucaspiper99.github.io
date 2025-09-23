@@ -2,7 +2,7 @@
 
 Machine Learning // Computer Vision // Computational Neuroscience
 
-## About Me
+## **About Me**
 
 I'm an assistant researcher at INESC-ID and soon-to-be visiting student at Carnegie Mellon University. I am currently working at the intersection of neuroscience and computer vision, by using spatial frequency constraints from fMRI data to regularize computer vision models.
 
@@ -10,7 +10,7 @@ Previously, I was a master's student at Instituto Superior Técnico in Lisbon, w
 
 ---
 
-## Work Experience
+## **Work Experience**
 
 ### Visiting Student @ Carnegie Mellon University (_November 2024 - December 2025_)
 - Using spatial frequency constraints from fMRI data to regularize computer vision models.
@@ -21,7 +21,7 @@ Previously, I was a master's student at Instituto Superior Técnico in Lisbon, w
 
 ---
 
-## Education
+## **Education**
 
 ### M.S., Computer Science and Engineering	@ Instituto Superior Técnico (_November 2024_)		
 - Thesis: "Using Biological Features of Improve Deep Learnign Models for Vision"
@@ -32,6 +32,6 @@ Previously, I was a master's student at Instituto Superior Técnico in Lisbon, w
 
 ---
 
-## Publications
+## **Publications**
 
-1. Piper, L.; Oliveira, A. L.; and Marques, T. Explicitly Modeling Subcortical Vision with a Neuro-Inspired Front-End Improves CNN Robustness (2025). *NeurIPS 2025*
+1. Piper, L.; Oliveira, A. L.; and Marques, T. Explicitly Modeling Subcortical Vision with a Neuro-Inspired Front-End Improves CNN Robustness (2025). **NeurIPS 2025**

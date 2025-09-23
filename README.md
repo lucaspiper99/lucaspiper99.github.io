@@ -12,10 +12,10 @@ Previously, I was a master's student at Instituto Superior Técnico in Lisbon, w
 
 ## **Work Experience**
 
-### Visiting Student @ Carnegie Mellon University (_November 2024 - December 2025_)
+**Visiting Student @ Carnegie Mellon University (_November 2024 - December 2025_)**
 - Using spatial frequency constraints from fMRI data to regularize computer vision models.
 
-### Research Assistant @ INESC-ID (_June 2024 - Present_)
+**Research Assistant @ INESC-ID (_June 2024 - Present_)**
 - Developing robust computer vision systems by drawing inspiration from the early stages of the primate ventral stream.
 - Enhancing standard backbone architectures with biologically inspired units to improve robustness against image corruptions, distribution shifts and adversarial attacks.
 
@@ -23,12 +23,12 @@ Previously, I was a master's student at Instituto Superior Técnico in Lisbon, w
 
 ## **Education**
 
-### M.S., Computer Science and Engineering	@ Instituto Superior Técnico (_November 2024_)		
+**M.S., Computer Science and Engineering	@ Instituto Superior Técnico (_November 2024_)**
 - Thesis: "Using Biological Features of Improve Deep Learnign Models for Vision"
 
-### Erasmus @ University of Amsterdam (_January 2023_)
+**Erasmus @ University of Amsterdam (_January 2023_)**
 
-### B.S., Mechanical Engineering @ Instituto Superior Técnico (_August 2021_)
+**B.S., Mechanical Engineering @ Instituto Superior Técnico (_August 2021_)**
 
 ---
 

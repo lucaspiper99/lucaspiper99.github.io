@@ -4,7 +4,7 @@ I am an assistant researcher at INESC-ID and a soon-to-be visiting student at th
 
 Previously, I was a master’s student in Computer Science and Engineering at Instituto Superior Técnico in Lisbon, where I specialized in Artificial Intelligence. My thesis focused on developing a subcortical module for visual processing to improve model robustness to image perturbations while mirroring cortical representations.
 
-[LinkedIn](https://www.linkedin.com/in/lucas-piper/) // [Scholar](https://scholar.google.com/citations?user=0s2P6TAAAAAJ) // [Github](https://github.com/lucaspiper99)
+&nbsp; [LinkedIn](https://www.linkedin.com/in/lucas-piper/) &nbsp; [Scholar](https://scholar.google.com/citations?user=0s2P6TAAAAAJ) &nbsp; [Github](https://github.com/lucaspiper99)
 
 ---
 
@@ -20,8 +20,7 @@ Previously, I was a master’s student in Computer Science and Engineering at In
 
 ## **Education**
 
-- **M.S., Computer Science and Engineering	@ Instituto Superior Técnico, Nov. 2024** (GPA: 19/20)
-  - Thesis: "Using Biological Features of Improve Deep Neural Network Models for Vision" (Grade: 20/20)
+- **M.S., Computer Science and Engineering	@ Instituto Superior Técnico, Nov. 2024** (GPA: 19/20) <br> Thesis: "Using Biological Features of Improve Deep Neural Network Models for Vision" (Grade: 20/20)
 
 - **Erasmus Semester @ University of Amsterdam, Jan. 2024** (GPA: 8/10)
 
@@ -30,11 +29,10 @@ Previously, I was a master’s student in Computer Science and Engineering at In
 ---
 ## **Projects**
 
-**Explicitly Modeling Subcortical Vision with a Neuro-Inspired Front-End Improves CNN Robustness**
-- [Website (TBA)](#) // [Paper](https://arxiv.org/abs/2506.03089) // [Code (TBA)](#)
+**Explicitly Modeling Subcortical Vision with a Neuro-Inspired Front-End Improves CNN Robustness** <br> &nbsp; [Website (TBA)](#) &nbsp; [Paper](https://arxiv.org/abs/2506.03089) &nbsp; [Code (TBA)](#)
 
 ---
 
 ## **Publications**
 
-1. Piper, L.; Oliveira, A. L.; and Marques, T. "Explicitly Modeling Subcortical Vision with a Neuro-Inspired Front-End Improves CNN Robustness" (2025). **NeurIPS 2025** [Link](https://arxiv.org/abs/2506.03089)
+1. Piper, L.; Oliveira, A. L.; and Marques, T. "Explicitly Modeling Subcortical Vision with a Neuro-Inspired Front-End Improves CNN Robustness" (2025). **NeurIPS 2025** &nbsp; [Link](https://arxiv.org/abs/2506.03089)

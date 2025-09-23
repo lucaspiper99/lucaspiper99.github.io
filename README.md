@@ -21,6 +21,7 @@ Previously, I was a master’s student in Computer Science and Engineering at In
 ## **Education**
 
 **M.S., Computer Science and Engineering	@ IST ULisboa**, GPA: 19/20 <br> &nbsp; (_Oct. 2021 - Nov. 2024_)
+  - Specialization in Artificial Intelligence and Interaction & Visualization
   - Thesis: "Using Biological Features of Improve Deep Neural Network Models for Vision" (Grade: 20/20)
 
 **Erasmus Semester @ University of Amsterdam**, GPA: 8/10 <br> &nbsp; (_Aug. 2022 - Jan. 2023_)

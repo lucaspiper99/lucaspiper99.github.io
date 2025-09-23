@@ -10,21 +10,22 @@ Previously, I was a master’s student in Computer Science and Engineering at In
 
 ## **Work Experience**
 
-**Visiting Student @ Carnegie Mellon University (_November 2024 - December 2025_)**
+**Visiting Student @ Carnegie Mellon University** <br> &nbsp; (_November 2025 - December 2025_)
 - Using spatial frequency tuning profiles from fMRI data to regularize early representations of computer vision models.
 
-**Research Assistant @ INESC-ID (_June 2024 - Present_)**
+**Research Assistant @ INESC-ID** <br> &nbsp; (_June 2024 - Oct. 2025_)
 - Improving standard backbone CNN architectures with biologically inspired front-end modules to improve brain alignemnt and robustness against image corruptions, distribution shifts and adversarial attacks.
 
 ---
 
 ## **Education**
 
-- **M.S., Computer Science and Engineering	@ Instituto Superior Técnico, Nov. 2024** (GPA: 19/20) <br> Thesis: "Using Biological Features of Improve Deep Neural Network Models for Vision" (Grade: 20/20)
+**M.S., Computer Science and Engineering	@ Instituto Superior Técnico**, GPA: 19/20 <br> &nbsp; (_Oct. 2021 - Nov. 2024_)
+  - Thesis: "Using Biological Features of Improve Deep Neural Network Models for Vision" (Grade: 20/20)
 
-- **Erasmus Semester @ University of Amsterdam, Jan. 2024** (GPA: 8/10)
+**Erasmus Semester @ University of Amsterdam**, GPA: 8/10 <br> &nbsp; (_Aug. 2022 - Jan. 2023_)
 
-- **B.S., Mechanical Engineering @ Instituto Superior Técnico, Aug. 2021** (GPA: 16/20)
+**B.S., Mechanical Engineering @ Instituto Superior Técnico**, GPA: 16/20 <br> &nbsp; (_Sep. 2018 - Aug. 2021_)
 
 ---
 ## **Projects**

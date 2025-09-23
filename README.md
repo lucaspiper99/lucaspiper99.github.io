@@ -35,8 +35,7 @@ Previously, I was a master's student at Instituto Superior Técnico in Lisbon, w
 
 **Explicitly Modeling Subcortical Vision with a Neuro-Inspired Front-End Improves CNN Robustness**
 
-|[Website (TBA)](#) | [Paper](https://arxiv.org/abs/2506.03089) | [Code (TBA)](#) |
-|-------------------|-------------------------------------------|-----------------|
+[Website (TBA)](#) | [Paper](https://arxiv.org/abs/2506.03089) | [Code (TBA)](#)
 
 ---
 

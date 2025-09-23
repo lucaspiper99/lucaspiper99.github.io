@@ -20,12 +20,12 @@ Previously, I was a master’s student in Computer Science and Engineering at In
 
 ## **Education**
 
-**M.S., Computer Science and Engineering	@ Instituto Superior Técnico, Nov. 2024** (GPA: 19/20)
-- Thesis: "Using Biological Features of Improve Deep Neural Network Models for Vision" (Grade: 20/20)
+- **M.S., Computer Science and Engineering	@ Instituto Superior Técnico, Nov. 2024** (GPA: 19/20)
+  - Thesis: "Using Biological Features of Improve Deep Neural Network Models for Vision" (Grade: 20/20)
 
-**Erasmus Semester @ University of Amsterdam, Jan. 2024** (GPA: 8/10)
+- **Erasmus Semester @ University of Amsterdam, Jan. 2024** (GPA: 8/10)
 
-**B.S., Mechanical Engineering @ Instituto Superior Técnico, Aug. 2021** (GPA: 16/20)
+- **B.S., Mechanical Engineering @ Instituto Superior Técnico, Aug. 2021** (GPA: 16/20)
 
 ---
 ## **Projects**

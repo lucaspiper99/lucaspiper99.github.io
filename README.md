@@ -25,13 +25,22 @@ Previously, I was a master's student at Instituto Superior Técnico in Lisbon, w
 
 **M.S., Computer Science and Engineering	@ Instituto Superior Técnico (_November 2024_)**
 - Thesis: "Using Biological Features of Improve Deep Learnign Models for Vision"
+- GPA: 19/20
 
-**Erasmus @ University of Amsterdam (_January 2023_)**
+**Erasmus Semester @ University of Amsterdam (_January 2023_)**
+- GPA: 8/10
 
 **B.S., Mechanical Engineering @ Instituto Superior Técnico (_August 2021_)**
+- GPA: 16/20
+
+---
+## **Projects**
+
+**Explicitly Modeling Subcortical Vision with a Neuro-Inspired Front-End Improves CNN Robustness**
+| [](Website (TBA)) | [https://arxiv.org/abs/2506.03089](Paper) | [](Code (TBA))
 
 ---
 
 ## **Publications**
 
-1. Piper, L.; Oliveira, A. L.; and Marques, T. Explicitly Modeling Subcortical Vision with a Neuro-Inspired Front-End Improves CNN Robustness (2025). **NeurIPS 2025**
+1. Piper, L.; Oliveira, A. L.; and Marques, T. "Explicitly Modeling Subcortical Vision with a Neuro-Inspired Front-End Improves CNN Robustness" (2025). **NeurIPS 2025** [https://arxiv.org/abs/2506.03089](Link)

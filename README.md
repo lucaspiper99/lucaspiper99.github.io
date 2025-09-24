@@ -4,7 +4,7 @@ I am an assistant researcher at INESC-ID and a soon-to-be visiting student at th
 
 Previously, I was a master’s student in Computer Science and Engineering at Instituto Superior Técnico (IST) in the University of Lisbon, where I specialized in Artificial Intelligence. My thesis focused on developing a subcortical module for visual processing to improve model robustness to image perturbations while mirroring cortical representations.
 
-&nbsp; [LinkedIn](https://www.linkedin.com/in/lucas-piper/) &nbsp; [Scholar](https://scholar.google.com/citations?user=0s2P6TAAAAAJ) &nbsp; [Github](https://github.com/lucaspiper99) &nbsp; &nbsp; [E-Mail](mailto:lucaspiper99@gmail.com)
+&nbsp; [LinkedIn](https://www.linkedin.com/in/lucas-piper/) &nbsp; [Scholar](https://scholar.google.com/citations?user=0s2P6TAAAAAJ) &nbsp; [Github](https://github.com/lucaspiper99) &nbsp; [E-Mail](mailto:lucaspiper99@gmail.com)
 
 ---
 

@@ -31,7 +31,7 @@ Previously, I was a master’s student in Computer Science and Engineering at In
 ---
 ## **Projects**
 
-**Explicitly Modeling Subcortical Vision with a Neuro-Inspired Front-End Improves CNN Robustness** <br> &nbsp; [Website (TBA)](#) &nbsp; [Paper](https://arxiv.org/abs/2506.03089) &nbsp; [Code (TBA)](#)
+**Explicitly Modeling Subcortical Vision with a Neuro-Inspired Front-End Improves CNN Robustness** <br> &nbsp; [Website (TBA)](#) &nbsp; [Paper](https://arxiv.org/abs/2506.03089) &nbsp; [Code](https://github.com/lucaspiper99/evnet)
 
 ---
 

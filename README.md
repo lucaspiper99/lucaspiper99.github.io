@@ -1,8 +1,8 @@
 ## **About Me**
 
-I am an assistant researcher at INESC-ID and a soon-to-be visiting student at the Psychology Department and Neuroscience Institute at Carnegie Mellon University. My work lies at the intersection of neuroscience and computer vision, where I use spatial frequency constraints derived from fMRI data to regularize computer vision models.
+I am currently a visiting student at the Psychology Department and Neuroscience Institute at Carnegie Mellon University under Maggie Henderson. My work lies at the intersection of neuroscience and computer vision, where I am leveraging spatial frequency constraints derived from fMRI data to regularize computer vision models.
 
-Previously, I was a master’s student in Computer Science and Engineering at Instituto Superior Técnico (IST) in the University of Lisbon, where I specialized in Artificial Intelligence. My thesis focused on developing a subcortical module for visual processing to improve model robustness to image perturbations while mirroring cortical representations.
+Previously, I was a researcher at INESC-ID and Instituto Superior Técnico (IST) in the University of Lisbon, where I focused on developing a subcortical module for visual processing to improve model robustness to image perturbations while mirroring neuronal representations.
 
 &nbsp; [CV](https://github.com/lucaspiper99/lucaspiper99.github.io/blob/main/cv.pdf) &nbsp; [LinkedIn](https://www.linkedin.com/in/lucas-piper/) &nbsp; [Scholar](https://scholar.google.com/citations?user=0s2P6TAAAAAJ) &nbsp; [Github](https://github.com/lucaspiper99) &nbsp; [E-Mail](mailto:lucaspiper99@gmail.com)
 

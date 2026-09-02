@@ -1,14 +1,17 @@
 ## **About Me**
 
-I am currently a visiting student at the Psychology Department and Neuroscience Institute at Carnegie Mellon University under Maggie Henderson. My work lies at the intersection of neuroscience and computer vision, where I am leveraging spatial frequency constraints derived from fMRI data to regularize computer vision models.
+I am currently a data scientist at [DareData](https://www.daredata.ai/) where I focus on developing to accelerate and optimize automotive electrical cable design.
 
-Previously, I was a researcher at INESC-ID and Instituto Superior Técnico (IST) in the University of Lisbon, where I focused on developing a subcortical module for visual processing to improve model robustness to image perturbations while mirroring neuronal representations.
+Previously, I was a visiting student at the Psychology Department and Neuroscience Institute at Carnegie Mellon University under Maggie Henderson, where I leveraged spatial frequency constraints derived from fMRI data to regularize computer vision models. Before that, I was a researcher at INESC-ID and Instituto Superior Técnico (IST) in the University of Lisbon, where I focused on developing a subcortical module for visual processing to improve model robustness to image perturbations while mirroring neuronal representations.
 
 &nbsp; [CV](https://github.com/lucaspiper99/lucaspiper99.github.io/blob/main/cv.pdf) &nbsp; [LinkedIn](https://www.linkedin.com/in/lucas-piper/) &nbsp; [Scholar](https://scholar.google.com/citations?user=0s2P6TAAAAAJ) &nbsp; [Github](https://github.com/lucaspiper99) &nbsp; [E-Mail](mailto:lucaspiper99@gmail.com)
 
 ---
 
 ## **Work Experience**
+
+**Data Scientist @ DareData** <br> &nbsp; (_Jan. 2026 - Present_)
+- Building data pipelines and predictive models on historical lab data to accelerate automotive electrical cable design.
 
 **Visiting Student @ Carnegie Mellon University** <br> &nbsp; (_Nov. 2025 - Dec. 2025_)
 - Using spatial frequency tuning profiles from fMRI data to regularize early representations of computer vision models.

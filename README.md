@@ -34,7 +34,7 @@ Previously, I was a visiting student at the Psychology Department and Neuroscien
 ---
 ## **Projects**
 
-**Explicitly Modeling Subcortical Vision with a Neuro-Inspired Front-End Improves CNN Robustness** <br> &nbsp; [Website (TBA)](#) &nbsp; [Paper](https://arxiv.org/abs/2506.03089) &nbsp; [Code](https://github.com/lucaspiper99/evnet)
+**Explicitly Modeling Subcortical Vision with a Neuro-Inspired Front-End Improves CNN Robustness** <br> &nbsp; [Paper](https://arxiv.org/abs/2506.03089) &nbsp; [Code](https://github.com/lucaspiper99/evnet)
 
 ---
 
